@@ -271,5 +271,3 @@ function section7(){
     })
 }
 section7()
-// dgds
-// dgg
